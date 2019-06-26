@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/AbstractFactoryPattern/AbstractFactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" filepath="$PROJECT_DIR$/AdapterPattern/AdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BridgePattern/BridgePattern.iml" filepath="$PROJECT_DIR$/BridgePattern/BridgePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfReponsibilityPattern/ChainOfReponsibilityPattern.iml" filepath="$PROJECT_DIR$/ChainOfReponsibilityPattern/ChainOfReponsibilityPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommandPattern/CommandPattern.iml" filepath="$PROJECT_DIR$/CommandPattern/CommandPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositePattern/CompositePattern.iml" filepath="$PROJECT_DIR$/CompositePattern/CompositePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPattern-Example.iml" filepath="$PROJECT_DIR$/DesignPattern-Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadePattern/FacadePattern.iml" filepath="$PROJECT_DIR$/FacadePattern/FacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FilterPattern/FilterPattern.iml" filepath="$PROJECT_DIR$/FilterPattern/FilterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" filepath="$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterpreterPattern/InterpreterPattern.iml" filepath="$PROJECT_DIR$/InterpreterPattern/InterpreterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypePattern/PrototypePattern.iml" filepath="$PROJECT_DIR$/PrototypePattern/PrototypePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" filepath="$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" />
+    </modules>
+  </component>
+</project>
