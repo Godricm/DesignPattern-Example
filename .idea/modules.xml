@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" filepath="$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterpreterPattern/InterpreterPattern.iml" filepath="$PROJECT_DIR$/InterpreterPattern/InterpreterPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" filepath="$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVCPattern/MVCPattern.iml" filepath="$PROJECT_DIR$/MVCPattern/MVCPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MediatorPattern/MediatorPattern.iml" filepath="$PROJECT_DIR$/MediatorPattern/MediatorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MementoPattern/MementoPattern.iml" filepath="$PROJECT_DIR$/MementoPattern/MementoPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/NullObjectPattern/NullObjectPattern.iml" filepath="$PROJECT_DIR$/NullObjectPattern/NullObjectPattern.iml" />
