@@ -19,11 +19,13 @@
       <module fileurl="file://$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" filepath="$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MediatorPattern/MediatorPattern.iml" filepath="$PROJECT_DIR$/MediatorPattern/MediatorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MementoPattern/MementoPattern.iml" filepath="$PROJECT_DIR$/MementoPattern/MementoPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NullObjectPattern/NullObjectPattern.iml" filepath="$PROJECT_DIR$/NullObjectPattern/NullObjectPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypePattern/PrototypePattern.iml" filepath="$PROJECT_DIR$/PrototypePattern/PrototypePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" filepath="$PROJECT_DIR$/ProxyPattern/ProxyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/SingletonPattern/SingletonPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/StatePattern/StatePattern.iml" filepath="$PROJECT_DIR$/StatePattern/StatePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" filepath="$PROJECT_DIR$/StrategyPattern/StrategyPattern.iml" />
     </modules>
   </component>
 </project>
