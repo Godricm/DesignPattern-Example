@@ -18,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/FactoryPattern/FactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/FilterPattern/FilterPattern.iml" filepath="$PROJECT_DIR$/FilterPattern/FilterPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" filepath="$PROJECT_DIR$/FlyweightPattern/FlyweightPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrontControllerPattern/FrontControllerPattern.iml" filepath="$PROJECT_DIR$/FrontControllerPattern/FrontControllerPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterceptingFilterPattern/InterceptingFilterPattern.iml" filepath="$PROJECT_DIR$/InterceptingFilterPattern/InterceptingFilterPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/InterpreterPattern/InterpreterPattern.iml" filepath="$PROJECT_DIR$/InterpreterPattern/InterpreterPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" filepath="$PROJECT_DIR$/IteratorPattern/IteratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVCPattern/MVCPattern.iml" filepath="$PROJECT_DIR$/MVCPattern/MVCPattern.iml" />
